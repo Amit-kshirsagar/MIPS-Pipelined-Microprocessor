@@ -1,4 +1,4 @@
-# MIPS-Pipelined-Microprocessor
+# MIPS Pipelined Microprocessor
 Originally developed in 2021 as part of a Computer Architecture Course; this repository contains the finalized and cleaned version for public release.
 ## Overview
 This project implements a **5-stage pipelined processor** based on a subset of the **MIPS ISA**, designed to demonstrate instruction-level parallelism and effective hazard resolution techniques using **Verilog HDL**.
